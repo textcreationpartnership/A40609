@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full discovery of the false evidence produc'd by the papists against the most reverend and learned Dr. Tho. Tenison</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40609</idno>
+            <idno type="STC">Wing F2346</idno>
+            <idno type="STC">ESTC R18424</idno>
+            <idno type="EEBO-CITATION">13044938</idno>
+            <idno type="OCLC">ocm 13044938</idno>
+            <idno type="VID">96911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 739:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full discovery of the false evidence produc'd by the papists against the most reverend and learned Dr. Tho. Tenison</title>
+                  <author>Lamb, Catharine.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John and Thomas Lane ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title (p. 3): Dr. Tenison's invisible evidence unclouded, by Catharine Lamb ...</note>
+                  <note>An attack on Andrew Pulton.</note>
+                  <note>Sometimes attributed to Catharine Lamb.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pulton, A. --  (Andrew), 1654-1710.</term>
+               <term>Tenison, Thomas, 1636-1715. --  Mr. Pulton consider'd.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96911:1"/>
+            <!-- PDF PAGE 116 -->
+            <pb facs="tcp:96911:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <p>A FULL DISCOVERY OF THE Falſe Evidence Produc'd by the PAPISTS Againſt the moſt Reverend and Learned Dr. Tho. Teniſon.</p>
+            <p>VVith Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John</hi> and <hi>Thomas Lane,</hi> at the <hi>Golden-Anchor,</hi> the Corner of <hi>Wilde-Street,</hi> next <hi>Duke-Street,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96911:2"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="3" facs="tcp:96911:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 117 -->
+            <head>Dr. Teniſon's Inviſible Evidence Unclouded,</head>
+            <byline>By <hi>CATHARINE LAMB.</hi>
+            </byline>
+            <head type="sub">With a further Account of the ſaid EVIDENCE.</head>
+            <p>HAving heard a Pamphlet, (induſtriouſly cryed about Streets) Entituled, <hi>Mr.</hi> Pulton <hi>Conſider'd by Dr</hi> Teniſon, I was led by Curioſity, and the Strangeneſs of the Ti<g ref="char:EOLhyphen"/>tle, to give my Self the trouble of ſeeing, if (according to my Apprehenſion) there were any thing conſiderable therein: But before I had read out the Firſt Page, I was very much ſurpri<g ref="char:EOLhyphen"/>zed, to ſee my Name in the very Front of the Book; and for no other Reaſon (as I could perceive, or imagine) but to Confront the E<g ref="char:EOLhyphen"/>vidence I gave by my Certificate, Publiſhed with Mr. <hi>Pulton</hi>'s <hi>Re<g ref="char:EOLhyphen"/>marks,</hi> about the <hi>Long-Acre</hi> Conference, betwixt Mr. <hi>Pulton,</hi> and the <hi>Reverend Doctor:</hi> Which Certifica<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, as it concerns my Self, is my chief Deſign to Maintain and Juſtifie; which, I doubt not, but will appear to be done in the Sequel, to any unprejudiced and unbyaſs'd <hi>Reader:</hi> And, ſince my only buſineſs is to maintain my former Certificate, I muſt acquaint my <hi>Reader,</hi> That I ſhall med<g ref="char:EOLhyphen"/>dle with nothing but what concerns That, or this Grave <hi>Doctor</hi>'s <hi>Re<g ref="char:EOLhyphen"/>flection</hi> upon my Self. As for the other Part of the Book, I queſti<g ref="char:EOLhyphen"/>on not, but 'twill be fully Anſwered by Mr. <hi>Pulton;</hi> notwithſtanding the great Conceit our <hi>Doctor</hi> hath of His own, and His Fellow La<g ref="char:EOLhyphen"/>bourers great Undertakings, in this His Grand Book of <hi>Conſidera<g ref="char:EOLhyphen"/>tions:</hi> And though this Deſign be a Work ſomewhat Improper for a Woman; yet, that the <hi>Doctor</hi> may not hugg Himſelf in his old muſty Opinion, that <hi>Roman-Catholicks</hi> are altogether led in Igno<g ref="char:EOLunhyphen"/>rance, I ſhall give Him ſome Reaſon to think, if He can Think
+<pb n="4" facs="tcp:96911:3"/>
+               <!-- PDF PAGE 118 -->
+as well as Conſider, (as He calls it) that thoſe Abſurdities of His, re<g ref="char:EOLhyphen"/>lating to my Self, I, though a Woman, have Senſe enough to take Notice of, by a juſt Reſentment; and alſo to put the <hi>Doctor</hi> in mind (though one would think, for His Godly Conſorts ſake) He ſhould not have forgot, <hi>It is ill Provoking our Weaker Sex.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> therefore, Before I come to the Matter of the <hi>Certificate,</hi> I muſt take notice of the Learned <hi>Doctor</hi>'s Quarrelling at the manner of Certifying; which, the <hi>Doctor</hi> ſays, Mr. <hi>Pulton</hi> terms, <hi>Teſtimonies in Favour of</hi> A. P. And the <hi>Doctor</hi> (becauſe he will not paſs by the leaſt opportunity of ſhewing His Profound Parts) Wittily obſerves to be a New Stile in <hi>Certificates;</hi> which, ſays He, ought to be Written without Fear, Affection, or Favour.</p>
+            <p>Now, by the <hi>Doctor</hi>'s Leave, however New his Reverence may fancy the Stile to be, yet, with Submiſſion, I think 'tis proper enough, to Stile a <hi>Certificate</hi> ſo; which, nevertheleſs, may be Certi<g ref="char:EOLhyphen"/>fied without Fear, Affection, or Favour to the Party, on whoſe be<g ref="char:EOLhyphen"/>half the Truth appears to be: For, where there is a Queſtion a<g ref="char:EOLhyphen"/>bout Matter of Fact, (as in our preſent Caſe) and the Fact is to be evinced by <hi>Certificate,</hi> on whoſoevers ſide the Truth does ap<g ref="char:EOLhyphen"/>pear to be, by the <hi>Certificate,</hi> that <hi>Certificate</hi> may very well be term'd to be, <hi>in Favour of the Party</hi> that ſo Affirms the Truth, and yet be Certified without any Partiality; as the <hi>Doctor</hi> would by all this <hi>Jargon,</hi> (to uſe His own Word for it) ſlily Inſinuate, to prepoſſeſs His <hi>Long-Acre</hi> Admirers.</p>
+            <p>But, to paſs to what is moſt Material; <hi>There was,</hi> ſays the Do<g ref="char:EOLhyphen"/>ctor, <hi>as little neceſſity of any of theſe</hi> Certificates, <hi>as there is Sinceri<g ref="char:EOLhyphen"/>ty in ſome.</hi> Now, though there was not an Indiſpenſible neceſſity, yet I think 'twas abſolutely convenient to ſatisfie the World, if poſſible, by <hi>Certificates,</hi> that this Gyant of Diſpute, and Monſter at an Argument, had not knock'd down Fifteen <hi>Jeſuits;</hi> as this Renowned St. <hi>Martins</hi> Oracle, or ſome of His Brazen Acquaintance, had Malitiouſly and Falſly reported; for I do not believe our mo<g ref="char:EOLhyphen"/>deſt <hi>Doctor</hi> has, as yet, a Forehead of Braſs, ſince He can afford a Bluſh upon occaſion; as it's ſaid He did, upon viewing Himſelf in the <hi>Soldier</hi>'s <hi>Speculum;</hi> though ſome are prone to believe, it was only, the Reflection of the Soldiers Red-Coat in his ſhining Face.
+<pb n="5" facs="tcp:96911:3"/>
+               <!-- PDF PAGE 118 -->
+But, that I may not forget my Deſign, or at leaſt ſeem like the Wiſe-Man in my Lord <hi>Bacon</hi>'s <hi>Eſſays,</hi> (quoted by our <hi>Doctor</hi>) who reſerves His great Buſineſs for a <hi>Poſtſcript;</hi> I think 'tis time, without keeping my <hi>Reader</hi> any longer in ſuſpence, to acquaint Him, That notwithſtanding the <hi>Doctor,</hi> and His Adherers ſly Inſi<g ref="char:EOLhyphen"/>nuation to the contrary, I do again Inſiſt on it for an Abſolute Truth, (without any Equivocation, or Mental Reſervation whatſoever) That I was in the Room below, (whether the <hi>Doctor</hi>'s Friend, Mrs. <hi>V.</hi> calls it a Chamber, or by any other Name, I know not) and ſaw Mr. <hi>Pulton</hi> come in, and go up Stairs: And, as I ſaid in my for<g ref="char:EOLhyphen"/>mer <hi>Ce<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tificate;</hi> He had only one Gentleman in His Company, and a Third Perſon, who follow'd them. I alſo went up Stairs immedi<g ref="char:EOLhyphen"/>ately after them, and was in the Room where the Conference was, before Mr. <hi>Pulton,</hi> and the <hi>Doctor</hi> had exchanged one Word; and I think the <hi>Doctor</hi>'s Comical School-Maſter may very well remember me there, by my deſiring him (in the mid'ſt of his Comedy) not to Interrupt the Conference with his ſeveral Monkey-Tricks, ſhown upon that occaſion.</p>
+            <p>And it is well known, that very Night I came home to my Houſe, after the Conference was ended, diſcourſing about it, and ſeveral things which paſt thereat, in the Preſence of ſeveral People of good Repute; I declared all thoſe Circumſtances, when it was not ſo much as thought of, at leaſt by me, it ever would, as it now is, have been Publickly expoſed in Print.</p>
+            <p>Beſides, were it for the ſatisfaction of any one that deſerves it, I am ready to make Affidavit of the Truth of what I now Inſiſt on, as to my Certificate, before any Perſon, that can Legally Adminiſter an Oath to me, for that intent and purpoſe: All which, I hope, may ſatisfie the World of the Truth of my Evidence in this particular.</p>
+            <p>Now, the Occaſion of the miſtake of putting the Chamber where the Conference was held, in place of the Chamber below (and at which, the <hi>Doctor</hi> ſeems to take ſo great an Advantage; though he'll find it quite contrary; for, by obliging me to give Him this more plain Account, the Truth of my Evidence appears more clear; as alſo His moſt Injurious Proceeding in this Caſe, however) it is as followeth:</p>
+            <p>
+               <pb n="6" facs="tcp:96911:4"/>
+               <!-- PDF PAGE 119 -->Underſtanding the fine miſ-repreſentation of the whole Matter of Fact in the <hi>Doctor</hi>'s Account, as being an Eye-Witneſs to the con<g ref="char:EOLhyphen"/>trary; I ſignified, by my Husband, to Mr. <hi>Pulton,</hi> That I was willing to Atteſt (if He pleaſed) how I had ſeen Him <hi>Go</hi> into the the Chamber, where the Conference was held, with only One Gen<g ref="char:EOLhyphen"/>tleman in His Company, and a Third, who follow'd them: Mr. <hi>Pulton</hi> told my Husband, <hi>He was ſorry the other Certificate was gone to the Preſs;</hi> however in haſt, he Wrote it in my Name (my Huſ<g ref="char:EOLhyphen"/>band ſaying I aſſented thereto) and put the Word <hi>Come,</hi> in place of <hi>Go.</hi> Now, that Mr. <hi>Pulton</hi> did this without Deſign, is manifeſt; for, had He put my Teſtimony, as in the Chamber below, I then had Witneſſed, (as now I do) That I ſaw Him not only <hi>Go</hi> into the Chamber above, but alſo <hi>Come</hi> in from the Street, in the aforeſaid manner.</p>
+            <p>But now you may ask, Was I not there by Mr. <hi>Pulton</hi>'s Appoint<g ref="char:EOLhyphen"/>ment or Conſent? I anſwer to the Negative; for having accidentally heard there was ſuch a Conference to be, I ſent to know, whether it might be allowed that I ſhould go? He anſwered, <hi>That He knew not where Himſelf was to go; and that He did not deſire any One ſhould come there:</hi> But uſing the endeavour the Curioſity of my Sex may render pardonable, I found means, by Enquiry in the Neighbour<g ref="char:EOLhyphen"/>hood, to find out the Houſe.</p>
+            <p>Now, I do not doubt, but the <hi>Doctor</hi> Himſelf, upon further Con<g ref="char:EOLhyphen"/>ſideration, will, or at leaſt, may be Aſhamed, (if any thing can make him ſo to be) publickly to expoſe a Perſon for ſpeaking the Truth; but the Doctor thinks he hath a Proverb on his ſide, <hi>That Truth ought not to be Spoke at all Times;</hi> and this he thinks a very im<g ref="char:EOLhyphen"/>proper Time for it, when it hinders him from catching his <hi>Gudgeon;</hi> and therefore thinks he hath ſufficient Reaſon for his Scurrilous Ex<g ref="char:EOLhyphen"/>preſſions, which will appear otherways to the <hi>Reader:</hi> His Words are in this manner, <hi>viz.</hi>
+            </p>
+            <p>The <hi>Doctor</hi> begins his Comical Humor; <hi>For,</hi> (ſays he,<note place="margin">In his Book, Intituled, <hi>Mr. P. Conſider'd.</hi> Pag. <hi>2.</hi>
+               </note> by way of Caution to Mr. <hi>Pulton) Let Him from henceforth forbear his Railery againſt</hi> Katharine Boren, <hi>leſt He put Peplein mind of</hi> Catharine Lamb; <hi>who, for ought I know, may be a Vertuous and True Woman; but,
+<pb n="7" facs="tcp:96911:4"/>
+                  <!-- PDF PAGE 119 -->
+as ſhe is Repreſented in Mr.</hi> Pulton<hi>'s Certificate, ſhe is a very extra<g ref="char:EOLhyphen"/>ordinary Perſon: Certainly ſhe muſt have ſome Relation to that Fa<g ref="char:EOLhyphen"/>mous Dr.</hi> Lamb, <hi>whom the Mobile believed to be a Conjurer.</hi> But whatever the Mobile believed of Dr. <hi>Lamb,</hi> ſurely none but that ſort of People would take our Learned <hi>Doctor</hi> for a Conjurer, by his Diſcourſe: For, what Parallel is there betwixt <hi>Kate Boren,</hi> and my Self; <hi>Who, for ought the</hi> Doctor <hi>knows, may be a Vertuous and True Woman;</hi> but the <hi>Doctor</hi> pretends no ſuch thing of <hi>Kate Boren:</hi> So that, what the <hi>Doctor</hi> would ſay, if he could ſpeak his Mind, is no more than thus; <hi>Pray, Mr.</hi> Pulton, <hi>don't tell me no more of</hi> Kate Boren <hi>who, you ſay, was a Leud, Naughty Woman; for fear I give you a hint of</hi> Catharine Lamb, <hi>who is a Vertuous and True Woman; and, as you have Repreſented Her, is an extraordinary Perſon.</hi>
+            </p>
+            <p>Now, I would fain have another Book of the <hi>Doctor</hi>'s <hi>Conſidera<g ref="char:EOLhyphen"/>tions,</hi> to explain this notable piece of Sophiſtry of His.</p>
+            <p>Says the <hi>Doctor, If</hi> Katharine Lamb <hi>did not Certifie this,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 3.</note> 
+               <hi>there is Forgery in it; and if ſhe did, there is Falſe-Evidence.</hi> But, as I have ſaid before, I did Certifie it; therefore there is no Forgery in it: and according to the Truth of the Matter afore<g ref="char:EOLhyphen"/>ſaid; therefore no Falſe Evidence.</p>
+            <p>The <hi>Doctor</hi> continues his pleaſant Conceit yet further:<note place="margin">
+                  <hi>Pag.</hi> 4.</note> 
+               <hi>For</hi> (ſays he) <hi>on</hi> Novemb. 4. <hi>Mr.</hi> Pulton <hi>Publiſhed his Re<g ref="char:EOLhyphen"/>marks, that Night the Falſe Certificate of</hi> Catharina in Nubibus <hi>was Publickly expoſed.</hi> But that the <hi>Certificate</hi> is True, I think ſuffici<g ref="char:EOLhyphen"/>ent hath been ſaid before: And that <hi>I am come out of the Clouds,</hi> (where the <hi>Doctor</hi> by his <hi>Hocus Pocus</hi> Tricks, if his frequent Repe<g ref="char:EOLhyphen"/>titions to that purpoſe, would have Confined me) to Juſtifie my ſelf, and the <hi>Certificate</hi> from his Falſe Aſperſions; as theſe Papers, being Publickly expoſed, will abundantly Teſtifie, to his great Confuſion.</p>
+            <p>But for a parting Blow; Our Satyrical <hi>Doctor</hi> continues his Merry Conceits againſt me,<note place="margin">
+                  <hi>Page</hi> 10.</note> and is reſolved to make me a through pac'd Evidence: <hi>For</hi> (ſays he) <hi>if</hi> Catharine Lamb <hi>had been there in her Magical Mantle, ſhe may, I doubt not, prove it upon me.</hi> Had I, <hi>Doctor,</hi> the <hi>Magical Mantle</hi> you were pleaſed to mention, I might perhaps, make Diſcoveries not very agreeable to your Character; and make known to the World more
+<pb n="8" facs="tcp:96911:5"/>
+               <!-- PDF PAGE 120 -->
+than a meer Coaching of it to <hi>White-Fryars,</hi> to preſent your <hi>Sala<g ref="char:EOLhyphen"/>manca</hi>-Narrative to Coffee-Houſes.</p>
+            <p>There is ſeveral other Places to this purpoſe, in this Grand Book of <hi>Conſideration;</hi> but I am unwilling to trouble my <hi>Reader</hi> with ſuch Impertinencies any longer.</p>
+            <p>I have indeed been a great Zealot for your pretended Church; but the Aſperſive, Falſe, and Fabulous Accounts I have often heard, in the moſt Sacred Places, from Men of your Gown, moſt injuriouſly miſ-repreſenting the Catholick Principles, ſeconded by the Experi<g ref="char:EOLhyphen"/>ence I have of your own moſt diſ-ingenuous and inſincere Proceed<g ref="char:EOLhyphen"/>ings, in this whole Matter, has intirely convinced me, that Truth cannot be, where ſtudied Falſhood is affectedly Profeſt: I am ſorry, <hi>Doctor,</hi> that the beſt Conceit of your Fifteen Sheets is ſpoyled, and that it ſtood not with my Reputation, to Cloak your Malice with a Mantle; although, I am ſenſible, it is not an ordinary One will do it.</p>
+            <p>Whereas <hi>Suſanna Robinſon</hi> ſpeaks of a Train following Mr. <hi>Pulton,</hi> who ſhall be named, as ſhe ſays, when there is occaſion; She is acquainted, that there is now occaſion; ſince, if her Evidence be True, I muſt incurr a contrary Repute: The Train ſhe ſpeaks of, will be proved not to have belonged to Mr. <hi>Pulton,</hi> but to the <hi>Doctor,</hi> who were ſtopt below till the Parties were met; and Mr. <hi>Pulton</hi> be<g ref="char:EOLhyphen"/>ing now gone up, againſt his Knowledge, Appointment, or Will, was, I believe, followed not long after, by that Train, and the Fa<g ref="char:EOLhyphen"/>mous School-Maſter in the mid'ſt of them.</p>
+            <p>But perchance, my <hi>Reader</hi> will Cenſure me for not expreſſing my ſelf, ſometimes, ſo Reſpectively to the <hi>Doctor</hi> as I ought; For that, whatever he is now, his Reverence hath been accounted a mo<g ref="char:EOLhyphen"/>deſt Man; but if ever he was ſo, it is certain, he doth now very much Degenerate; which is too plain, by the way which he takes in vili<g ref="char:EOLhyphen"/>fying and defaming Others: Whereas, if there had been any Fault, yet, in my Judgment, the <hi>Doctor</hi> ought not to have taken ſuch a method to Reprove it; but ſeeing ſo Grave a <hi>Doctor</hi> hath preſcri<g ref="char:EOLhyphen"/>bed this Method, I hope he, nor no one elſe, will take it amiſs, eſpe<g ref="char:EOLhyphen"/>cially from a weak Woman; if ſhe, to Vindicate her ſelf, make uſe, in a manner, of his own Language.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96911:5"/>
+            <!-- PDF PAGE 120 -->
+         </div>
+      </body>
+   </text>
+</TEI>
